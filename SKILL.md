@@ -1,11 +1,10 @@
 ---
 name: institutional-incentive-analysis
-description: A skill for explaining behavior through structural incentives rather
-  than individual intentions - understanding why institutions do what they do.
+description: A skill for explaining behavior through structural incentives rather than individual intentions - understanding why institutions do what they do.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - institutional-incentive-analysis
 - writing
