@@ -4,7 +4,8 @@ description: A skill for explaining behavior through structural incentives rathe
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4237
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - institutional-incentive-analysis
 - writing
